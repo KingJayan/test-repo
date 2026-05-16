@@ -1,5 +1,4 @@
 # test-repo
-asdsadasdsad
-asdasd
-asdasdsa
-asdasdasdsadasdasdasdasd
+
+
+simple test repo for trying out sm commmands
